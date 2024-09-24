@@ -1,0 +1,2 @@
+- Tutors using Logseq
+- Create courses with intuitive software
